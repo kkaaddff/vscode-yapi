@@ -1,23 +1,21 @@
 # vscode-yapi-接口文档高效工具
 
-[掘金 vscode-yapi 文章](https://juejin.im/post/5e9b07adf265da47d4057e26)
+## 更新发布
 
-[插件设置，b站视频观看](https://www.bilibili.com/video/BV1AK411573W/)
+### 1.1.1
 
-[功能操作，b站视频观看](https://www.bilibili.com/video/BV1Je411s7mA/)
+1: 修复插件设置下新增项目操作引发的bug
 
-## 功能
+2: 快捷键操作：
 
-### vscode-yapi（插件截图）
+   ctrl+p 或 cmd+p (vscode-yapi:查看接口文档)
 
-<img src="https://user-gold-cdn.xitu.io/2020/4/19/1719084dbb00436c?w=2878&h=1798&f=jpeg&s=491486"  width="800"/>
+   ctrl+o，cmd+o（vscode-yapi:快速生成api模板数据）
 
-### 操作演示设置：GIF
+3: 快速生成api模板数据【亮点】
 
-<img src="https://user-gold-cdn.xitu.io/2020/4/19/171904d3b96f7634?w=1280&h=800&f=gif&s=4461251"  width="800"/>
+<img src="https://user-gold-cdn.xitu.io/2020/4/23/171a68e9445f84b0?w=1280&h=800&f=gif&s=3814327"  width="800"/>
 
-
-## 版本说明
 
 ### 1.1.0
 
@@ -68,7 +66,6 @@
 ### 1.0.2
 
 1: 增加对（js、tsx、ts、jsx）文件格式的接口文档查看
-
 2: 增加插件设置、功能操作的视频演示
 
 ### 1.0.1
