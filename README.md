@@ -1,6 +1,20 @@
 # vscode-yapi-接口文档高效工具
 
-## 更新发布
+[掘金 vscode-yapi 文章](https://juejin.im/post/5e9b07adf265da47d4057e26)
+
+[插件设置，b站视频观看](https://www.bilibili.com/video/BV1AK411573W/)
+
+[功能操作，b站视频观看](https://www.bilibili.com/video/BV1Je411s7mA/)
+
+## 版本说明
+
+### 1.1.3
+
+1: api文档webview页面，增加备注信息字段的显示，（备注、请求参数、返回数据）增加展开/隐藏操作。
+
+2: 模版设置，增加 “新增request模板代码” 引导按钮操作。可以快速生成模板代码【亮点】
+
+<img src="https://user-gold-cdn.xitu.io/2020/4/27/171ba1ce9ba7f7ff?imageslim"  width="800"/>
 
 ### 1.1.2
 
@@ -72,6 +86,7 @@
 ### 1.0.2
 
 1: 增加对（js、tsx、ts、jsx）文件格式的接口文档查看
+
 2: 增加插件设置、功能操作的视频演示
 
 ### 1.0.1
