@@ -8,6 +8,14 @@
 
 ## 版本说明
 
+### 1.1.4
+
+1: 重构代码，修复一些细节bug
+
+2: 启用新的Logo
+
+<img src="https://kummy.gallerycdn.vsassets.io/extensions/kummy/47453949"/>
+
 ### 1.1.3
 
 1: api文档webview页面，增加备注信息字段的显示，（备注、请求参数、返回数据）增加展开/隐藏操作。
