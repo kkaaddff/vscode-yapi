@@ -1,12 +1,12 @@
 # vscode-yapi-接口文档高效工具
 
-[掘金 vscode-yapi 文章](https://juejin.im/post/5e9b07adf265da47d4057e26)
-
-[插件设置，b站视频观看](https://www.bilibili.com/video/BV1AK411573W/)
-
-[功能操作，b站视频观看](https://www.bilibili.com/video/BV1Je411s7mA/)
+[掘金 vscode-yapi 文章](https://juejin.im/post/5eb41a726fb9a0435432d51d)
 
 ## 版本说明
+
+### 1.1.5
+
+更新文档
 
 ### 1.1.4
 
